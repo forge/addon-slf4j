@@ -1,7 +1,7 @@
-== slf4j-addon
+== JBoss Forge SLF4J addon
 :idprefix: id_ 
-This addon *provides classes* for use in other addons. You must use this addon if you want to use SLF4J in your addon.
-Make sure that your addon excludes any SLF4J dependencies.
+This addon *provides classes* for use in other addons. 
+You *must* use this addon if you want to use SLF4J in your addon. Make sure that your addon excludes any SLF4J dependencies.
         
 === Dependencies: None 
 
