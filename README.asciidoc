@@ -18,6 +18,8 @@ To use this addon, you must add it as a dependency in the *pom.xml* of your `for
    <groupId>org.jboss.forge.addon</groupId>
    <artifactId>slf4j</artifactId>
    <classifier>forge-addon</classifier>
-   <version>${version}</version>
+   <version>1.7.13</version>
 </dependency>
 ----
+
+NOTE:: This addon is already added to the _forge-bom_, so if you can skip the version information if you already use it
